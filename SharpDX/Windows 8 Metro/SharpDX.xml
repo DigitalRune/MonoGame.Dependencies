@@ -9621,6 +9621,12 @@
             Use this property to track objects per thread.
             </summary>
         </member>
+        <member name="F:SharpDX.Configuration.UseThreadStaticObjectTracking">
+            <summary>
+            By default all objects in the process are tracked.
+            Use this property to track objects per thread.
+            </summary>
+        </member>
         <member name="T:SharpDX.DataBox">
             <summary>
             Provides access to data organized in 3D.
