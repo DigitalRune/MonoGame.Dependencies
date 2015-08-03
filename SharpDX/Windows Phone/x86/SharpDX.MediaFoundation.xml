@@ -8151,6 +8151,224 @@
             <summary>Constant AudioEncoder.</summary>
             <unmanaged>MFT_CATEGORY_AUDIO_ENCODER</unmanaged>
         </member>
+        <member name="T:SharpDX.MediaFoundation.VideoFormatGuids">
+            <summary>	
+            Functions	
+            </summary>	
+            <!-- No matching elements were found for the following include tag --><include file=".\..\Documentation\CodeComments.xml" path="/comments/comment[@id='SharpDX.MediaFoundation.VideoFormatGuids']/*"/>	
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Wmv1">
+            <summary>Constant Wmv1.</summary>
+            <unmanaged>MFVideoFormat_WMV1</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Wmv3">
+            <summary>Constant Wmv3.</summary>
+            <unmanaged>MFVideoFormat_WMV3</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.I420">
+            <summary>Constant I420.</summary>
+            <unmanaged>MFVideoFormat_I420</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dvc">
+            <summary>Constant Dvc.</summary>
+            <unmanaged>MFVideoFormat_DVC</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Iyuv">
+            <summary>Constant Iyuv.</summary>
+            <unmanaged>MFVideoFormat_IYUV</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Argb32">
+            <summary>Constant Argb32.</summary>
+            <unmanaged>MFVideoFormat_ARGB32</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mp43">
+            <summary>Constant Mp43.</summary>
+            <unmanaged>MFVideoFormat_MP43</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mp4s">
+            <summary>Constant Mp4s.</summary>
+            <unmanaged>MFVideoFormat_MP4S</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mpg1">
+            <summary>Constant Mpg1.</summary>
+            <unmanaged>MFVideoFormat_MPG1</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Wmv2">
+            <summary>Constant Wmv2.</summary>
+            <unmanaged>MFVideoFormat_WMV2</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.MultisampledS2">
+            <summary>Constant MultisampledS2.</summary>
+            <unmanaged>MFVideoFormat_MSS2</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.M4S2">
+            <summary>Constant M4S2.</summary>
+            <unmanaged>MFVideoFormat_M4S2</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dv25">
+            <summary>Constant Dv25.</summary>
+            <unmanaged>MFVideoFormat_DV25</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Yvu9">
+            <summary>Constant Yvu9.</summary>
+            <unmanaged>MFVideoFormat_YVU9</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.MultisampledS1">
+            <summary>Constant MultisampledS1.</summary>
+            <unmanaged>MFVideoFormat_MSS1</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Wvc1">
+            <summary>Constant Wvc1.</summary>
+            <unmanaged>MFVideoFormat_WVC1</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Rgb8">
+            <summary>Constant Rgb8.</summary>
+            <unmanaged>MFVideoFormat_RGB8</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Rgb24">
+            <summary>Constant Rgb24.</summary>
+            <unmanaged>MFVideoFormat_RGB24</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y41P">
+            <summary>Constant Y41P.</summary>
+            <unmanaged>MFVideoFormat_Y41P</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dv50">
+            <summary>Constant Dv50.</summary>
+            <unmanaged>MFVideoFormat_DV50</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Base">
+            <summary>Constant Base.</summary>
+            <unmanaged>MFVideoFormat_Base</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.P010">
+            <summary>Constant P010.</summary>
+            <unmanaged>MFVideoFormat_P010</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mp4v">
+            <summary>Constant Mp4v.</summary>
+            <unmanaged>MFVideoFormat_MP4V</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.H264Es">
+            <summary>Constant H264Es.</summary>
+            <unmanaged>MFVideoFormat_H264_ES</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.AI44">
+            <summary>Constant AI44.</summary>
+            <unmanaged>MFVideoFormat_AI44</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.NV11">
+            <summary>Constant NV11.</summary>
+            <unmanaged>MFVideoFormat_NV11</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.NV12">
+            <summary>Constant NV12.</summary>
+            <unmanaged>MFVideoFormat_NV12</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.H263">
+            <summary>Constant H263.</summary>
+            <unmanaged>MFVideoFormat_H263</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.H264">
+            <summary>Constant H264.</summary>
+            <unmanaged>MFVideoFormat_H264</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Yvyu">
+            <summary>Constant Yvyu.</summary>
+            <unmanaged>MFVideoFormat_YVYU</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y210">
+            <summary>Constant Y210.</summary>
+            <unmanaged>MFVideoFormat_Y210</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.YUY2">
+            <summary>Constant YUY2.</summary>
+            <unmanaged>MFVideoFormat_YUY2</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Rgb32">
+            <summary>Constant Rgb32.</summary>
+            <unmanaged>MFVideoFormat_RGB32</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dvh1">
+            <summary>Constant Dvh1.</summary>
+            <unmanaged>MFVideoFormat_DVH1</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dvhd">
+            <summary>Constant Dvhd.</summary>
+            <unmanaged>MFVideoFormat_DVHD</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y216">
+            <summary>Constant Y216.</summary>
+            <unmanaged>MFVideoFormat_Y216</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y410">
+            <summary>Constant Y410.</summary>
+            <unmanaged>MFVideoFormat_Y410</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y416">
+            <summary>Constant Y416.</summary>
+            <unmanaged>MFVideoFormat_Y416</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y41T">
+            <summary>Constant Y41T.</summary>
+            <unmanaged>MFVideoFormat_Y41T</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y42T">
+            <summary>Constant Y42T.</summary>
+            <unmanaged>MFVideoFormat_Y42T</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Uyvy">
+            <summary>Constant Uyvy.</summary>
+            <unmanaged>MFVideoFormat_UYVY</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dvsl">
+            <summary>Constant Dvsl.</summary>
+            <unmanaged>MFVideoFormat_DVSL</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Rgb555">
+            <summary>Constant Rgb555.</summary>
+            <unmanaged>MFVideoFormat_RGB555</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Rgb565">
+            <summary>Constant Rgb565.</summary>
+            <unmanaged>MFVideoFormat_RGB565</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mpeg2">
+            <summary>Constant Mpeg2.</summary>
+            <unmanaged>MFVideoFormat_MPEG2</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Yv12">
+            <summary>Constant Yv12.</summary>
+            <unmanaged>MFVideoFormat_YV12</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.P016">
+            <summary>Constant P016.</summary>
+            <unmanaged>MFVideoFormat_P016</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.AYUV">
+            <summary>Constant AYUV.</summary>
+            <unmanaged>MFVideoFormat_AYUV</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Mjpg">
+            <summary>Constant Mjpg.</summary>
+            <unmanaged>MFVideoFormat_MJPG</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Dvsd">
+            <summary>Constant Dvsd.</summary>
+            <unmanaged>MFVideoFormat_DVSD</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.P210">
+            <summary>Constant P210.</summary>
+            <unmanaged>MFVideoFormat_P210</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.P216">
+            <summary>Constant P216.</summary>
+            <unmanaged>MFVideoFormat_P216</unmanaged>
+        </member>
+        <member name="F:SharpDX.MediaFoundation.VideoFormatGuids.Y420O">
+            <summary>Constant Y420O.</summary>
+            <unmanaged>MFVideoFormat_420O</unmanaged>
+        </member>
         <member name="T:SharpDX.MediaFoundation.Activate">
             <summary>	
             <p>Enables the application to defer the creation of an object. This interface is exposed by activation objects.</p>	
