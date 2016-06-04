@@ -1,0 +1,1 @@
+The ATI.TextureConverter.dll was temporarily removed because the license is unclear.
